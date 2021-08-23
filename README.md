@@ -10,7 +10,6 @@ After watching some youtube videos, i was intrigued and want to build something 
 
 - Nextjs
 - Tailwind css
-- flex
 - Mobile-first workflow
 
 ### What I learned
